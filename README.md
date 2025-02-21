@@ -15,7 +15,7 @@ I'm a Senior Software Engineering Manager with over 19 years of software develop
 
 ## 📫 How to reach me
 
-- **Email:** damjan@example.com
+- **Email:** damjang@thelotter.com
 - **LinkedIn:** [Damjan's LinkedIn](www.linkedin.com/in/damjangeorgiev)
 
 ## 🌱 Currently Learning
